@@ -1,7 +1,7 @@
 # E2E
 Simple model for the E2E challenge
 
-##training
+## training
 run scipts in working_scripts
 
 ## Instructions
